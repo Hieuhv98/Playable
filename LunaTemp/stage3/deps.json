@@ -1,0 +1,192 @@
+{
+  "ignores": [
+    "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Extensions/Extensions.cs",
+    "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Packs/DOTween/Modules/DOTweenModuleAudio.cs",
+    "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Packs/DOTween/Modules/DOTweenModulePhysics.cs",
+    "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Packs/DOTween/Modules/DOTweenModulePhysics2D.cs",
+    "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Packs/DOTween/Modules/DOTweenModuleSprite.cs",
+    "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Packs/DOTween/Modules/DOTweenModuleUI.cs",
+    "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Packs/DOTween/Modules/DOTweenModuleUnityVersion.cs",
+    "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Packs/DOTween/Modules/EEasingType.cs",
+    "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/ISkeletonAnimation.cs",
+    "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Utility/AtlasUtilities.cs",
+    "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Utility/AttachmentCloneExtensions.cs",
+    "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Utility/AttachmentRegionExtensions.cs",
+    "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Utility/SkeletonExtensions.cs",
+    "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Utility/TimelineExtensions.cs"
+  ],
+  "groups": [
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Develops/23_06_25/Camera/CameraMain.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Cameras/FollowCamera2D.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Develops/23_06_25/Camera/Config/CameraConfig.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Develops/23_06_25/Level_23_06_25.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Level/LevelBase.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/GameBase.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Develops/23_06_25/GameManager_23_06_25.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/UI/CanvasUI.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/UI/Popup/PopupWin/PopupWin.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/UI/Popup/PopupBase.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/UI/Popup/PopupLose/PopupLose.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Level/Audio/AudioBase.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Develops/23_06_25/Container/Container.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Develops/23_06_25/Spawns/Spawn.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Develops/23_06_25/Pin/Pin.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Input/Touch/Interface/ITouch.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Input/Touch/TouchManager.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Level/PlayerBase.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Develops/23_06_25/Players/King.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Develops/23_06_25/Players/Follow.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Level/Animator/AnimatorComponent.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Level/Animator/AnimatorSkeleton.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/SkeletonAnimation.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Utility/YieldInstructions/WaitForSpineEvent.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/SkeletonRenderer.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/Following/BoneFollower.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/Following/BoneFollowerGraphic.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/SkeletonGraphic.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Level/Animator/AnimatorSkeletonUI.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/Following/BoundingBoxFollowerGraphic.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/SpineAttributes.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Asset Types/AnimationReferenceAsset.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/ISkeletonAnimation.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/Following/PointFollower.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/RootMotion/SkeletonRootMotion.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/RootMotion/SkeletonRootMotionBase.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/RootMotion/SkeletonMecanimRootMotion.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/SkeletonMecanim.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Asset Types/SkeletonDataAsset.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Asset Types/EventDataReferenceAsset.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Asset Types/SkeletonDataCompatibility.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Asset Types/AtlasAssetBase.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Asset Types/OnDemandTextureLoader.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Asset Types/SpineAtlasAsset.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Asset Types/SpineSpriteAtlasAsset.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Asset Types/BlendModeMaterials.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Asset Types/SkeletonDataModifierAsset.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/SkeletonDataModifierAssets/BlendModeMaterials/BlendModeMaterialsAsset.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Asset Types/RegionlessAttachmentLoader.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Utility/TimelineExtensions.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/SkeletonRenderSeparator/SkeletonRenderSeparator.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/SkeletonRenderSeparator/SkeletonPartsRenderer.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Mesh Generation/MeshGenerator.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Mesh Generation/SkeletonRendererInstruction.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Mesh Generation/MeshRendererBuffers.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Mesh Generation/DoubleBuffered.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Mesh Generation/SpineMesh.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Utility/SkeletonExtensions.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/SkeletonUtility/ActivateBasedOnFlipDirection.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/SkeletonUtility/SkeletonUtility.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/Following/BoundingBoxFollower.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/SkeletonUtility/SkeletonUtilityBone.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/SkeletonUtility/SkeletonUtilityConstraint.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/SkeletonRendererCustomMaterials/SkeletonRendererCustomMaterials.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/SkeletonRendererCustomMaterials/SkeletonGraphicCustomMaterials.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/Internal/SkeletonSubmeshGraphic.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Develops/23_06_25/Point/Point.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Develops/23_06_25/Spawns/ObjectSpawn.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/Button/ButtonCTA.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/EndCard/Scripts/EndCardDelayShow.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Extensions/Extensions.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Extensions/Scale.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Level/Colliside/Collisider2DComponent.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Level/Colliside/Collision2DComponent.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Packs/DOTween/Modules/DOTweenModuleAudio.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Packs/DOTween/Modules/DOTweenModulePhysics.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Packs/DOTween/Modules/DOTweenModulePhysics2D.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Packs/DOTween/Modules/DOTweenModuleSprite.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Packs/DOTween/Modules/DOTweenModuleUI.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Packs/DOTween/Modules/DOTweenModuleUnityVersion.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Packs/DOTween/Modules/DOTweenModuleUtils.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Packs/DOTween/Modules/EEasingType.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Packs/Pattern/ObjectPool/ObjectPool.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Packs/Pattern/ObjectPool/PoolManager.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Packs/Pattern/Singleton/Singleton.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Packs/Pattern/ObjectPool/ObjectPoolContainer.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/_Root/Playable/GameBase/Resize/ScreenScale.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/EditorSkeletonPlayer.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/SkeletonUtility/FollowLocationRigidbody.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/SkeletonUtility/FollowLocationRigidbody2D.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Components/SkeletonUtility/FollowSkeletonUtilityRootRotation.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Modules/TK2D/SpriteCollectionAttachmentLoader.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Utility/AtlasUtilities.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Utility/AttachmentCloneExtensions.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Utility/AttachmentRegionExtensions.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Utility/BuildUtilities.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Utility/MaterialChecks.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Utility/MathUtilities.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Utility/SettingsTriState.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Utility/YieldInstructions/WaitForSpineAnimation.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Utility/YieldInstructions/WaitForSpineAnimationComplete.cs",
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Utility/YieldInstructions/WaitForSpineAnimationEnd.cs"
+    ],
+    [
+      "E:/Projects/Playable/LunaTemp/stage3/processed-scripts/Assets/Spine/Runtime/spine-unity/Utility/YieldInstructions/WaitForSpineTrackEntryEnd.cs"
+    ],
+    [
+      "C:/Users/Gaming1/Downloads/pipeline/templates/LunaCompiler/Scripts/Properties/AssemblyInfo.cs"
+    ],
+    [
+      "C:/Users/Gaming1/Downloads/pipeline/templates/LunaCompiler/Scripts/Sources/OtherDummyScript.cs"
+    ],
+    [
+      "C:/Users/Gaming1/Downloads/pipeline/templates/LunaCompiler/Scripts/obj/Debug/.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+    ]
+  ]
+}

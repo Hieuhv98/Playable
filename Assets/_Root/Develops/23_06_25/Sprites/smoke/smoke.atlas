@@ -1,0 +1,72 @@
+smoke.png
+size:1978,1708
+filter:Linear,Linear
+pma:true
+Elements - Smoke 021 Explosion Up noCT noRSZ_00000
+bounds:2,1583,123,319
+offsets:432,96,1000,1000
+rotate:90
+Elements - Smoke 021 Explosion Up noCT noRSZ_00002
+bounds:323,1408,298,571
+offsets:364,96,1000,1000
+rotate:90
+Elements - Smoke 021 Explosion Up noCT noRSZ_00004
+bounds:896,1387,319,670
+offsets:355,95,1000,1000
+rotate:90
+Elements - Smoke 021 Explosion Up noCT noRSZ_00006
+bounds:2,1052,354,727
+offsets:348,88,1000,1000
+rotate:90
+Elements - Smoke 021 Explosion Up noCT noRSZ_00008
+bounds:731,996,389,774
+offsets:328,84,1000,1000
+rotate:90
+Elements - Smoke 021 Explosion Up noCT noRSZ_00010
+bounds:1568,918,408,788
+offsets:324,82,1000,1000
+Elements - Smoke 021 Explosion Up noCT noRSZ_00012
+bounds:2,564,430,813
+offsets:318,78,1000,1000
+rotate:90
+Elements - Smoke 021 Explosion Up noCT noRSZ_00014
+bounds:817,470,446,830
+offsets:315,73,1000,1000
+rotate:90
+Elements - Smoke 021 Explosion Up noCT noRSZ_00016
+bounds:2,11,457,844
+offsets:310,70,1000,1000
+rotate:90
+Elements - Smoke 021 Explosion Up noCT noRSZ_00018
+bounds:848,2,466,849
+offsets:307,68,1000,1000
+rotate:90
+
+smoke_2.png
+size:1994,1767
+filter:Linear,Linear
+pma:true
+Elements - Smoke 021 Explosion Up noCT noRSZ_00020
+bounds:1517,50,470,855
+offsets:303,66,1000,1000
+Elements - Smoke 021 Explosion Up noCT noRSZ_00022
+bounds:1517,907,475,858
+offsets:301,64,1000,1000
+Elements - Smoke 021 Explosion Up noCT noRSZ_00024
+bounds:984,17,480,862
+offsets:297,63,1000,1000
+Elements - Smoke 021 Explosion Up noCT noRSZ_00026
+bounds:497,9,485,867
+offsets:294,61,1000,1000
+Elements - Smoke 021 Explosion Up noCT noRSZ_00028
+bounds:2,2,493,874
+offsets:290,59,1000,1000
+Elements - Smoke 021 Explosion Up noCT noRSZ_00030
+bounds:1016,885,499,880
+offsets:286,57,1000,1000
+Elements - Smoke 021 Explosion Up noCT noRSZ_00032
+bounds:512,881,502,884
+offsets:284,55,1000,1000
+Elements - Smoke 021 Explosion Up noCT noRSZ_00034
+bounds:2,878,508,887
+offsets:281,54,1000,1000

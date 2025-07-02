@@ -1,0 +1,59 @@
+smoke.png
+size:1312,1312
+filter:Linear,Linear
+pma:true
+scale:0.5
+Elements - Smoke 021 Explosion Up noCT noRSZ_00000
+bounds:1248,1150,62,160
+offsets:216,48,500,500
+Elements - Smoke 021 Explosion Up noCT noRSZ_00002
+bounds:1091,199,149,286
+offsets:182,48,500,500
+Elements - Smoke 021 Explosion Up noCT noRSZ_00004
+bounds:1136,540,160,336
+offsets:177,47,500,500
+Elements - Smoke 021 Explosion Up noCT noRSZ_00006
+bounds:912,110,177,364
+offsets:174,44,500,500
+Elements - Smoke 021 Explosion Up noCT noRSZ_00008
+bounds:939,487,195,387
+offsets:164,42,500,500
+Elements - Smoke 021 Explosion Up noCT noRSZ_00010
+bounds:733,476,204,394
+offsets:162,41,500,500
+Elements - Smoke 021 Explosion Up noCT noRSZ_00012
+bounds:228,12,215,407
+offsets:159,39,500,500
+Elements - Smoke 021 Explosion Up noCT noRSZ_00014
+bounds:2,3,224,416
+offsets:157,36,500,500
+Elements - Smoke 021 Explosion Up noCT noRSZ_00016
+bounds:445,11,229,422
+offsets:155,35,500,500
+Elements - Smoke 021 Explosion Up noCT noRSZ_00018
+bounds:676,12,234,425
+offsets:153,34,500,500
+Elements - Smoke 021 Explosion Up noCT noRSZ_00020
+bounds:495,439,236,428
+offsets:151,33,500,500
+Elements - Smoke 021 Explosion Up noCT noRSZ_00022
+bounds:255,435,238,429
+offsets:150,32,500,500
+Elements - Smoke 021 Explosion Up noCT noRSZ_00024
+bounds:1005,878,241,432
+offsets:148,31,500,500
+Elements - Smoke 021 Explosion Up noCT noRSZ_00026
+bounds:760,876,243,434
+offsets:147,30,500,500
+Elements - Smoke 021 Explosion Up noCT noRSZ_00028
+bounds:511,872,247,438
+offsets:145,29,500,500
+Elements - Smoke 021 Explosion Up noCT noRSZ_00030
+bounds:259,869,250,441
+offsets:143,28,500,500
+Elements - Smoke 021 Explosion Up noCT noRSZ_00032
+bounds:2,421,251,443
+offsets:142,27,500,500
+Elements - Smoke 021 Explosion Up noCT noRSZ_00034
+bounds:2,866,255,444
+offsets:140,27,500,500

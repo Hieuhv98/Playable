@@ -247,7 +247,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4735364040708906926}
   - component: {fileID: 3326298027480730321}
-  - component: {fileID: 5744969941783722094}
+  - component: {fileID: 2420064892381667962}
   m_Layer: 5
   m_Name: PopupLose
   m_TagString: Untagged
@@ -289,7 +289,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   content: {fileID: 5301011529093279323}
-  animator: {fileID: 5744969941783722094}
+  animator: {fileID: 2420064892381667962}
   animShowName: Show
   audioBase: {fileID: 1060029506777717667}
   soundOpen:
@@ -297,7 +297,7 @@ MonoBehaviour:
     volume: 1
     isLoop: 0
     delay: 0
---- !u!95 &5744969941783722094
+--- !u!95 &2420064892381667962
 Animator:
   serializedVersion: 5
   m_ObjectHideFlags: 0
