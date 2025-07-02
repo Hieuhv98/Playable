@@ -46,8 +46,6 @@ public class ScreenScale : MonoBehaviour
             cameraTarget.orthographicSize *= 1.4f;
         }
     }
-
-#if UNITY_EDITOR
     private void Update()
     {
         if (_aspect != cameraTarget.aspect)
@@ -56,5 +54,4 @@ public class ScreenScale : MonoBehaviour
             ReNative();
         }
     }
-#endif
 }

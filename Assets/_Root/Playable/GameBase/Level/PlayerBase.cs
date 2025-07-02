@@ -10,6 +10,7 @@ public class PlayerBase : MonoBehaviour
 
     [SerializeField] GameObject center;
     public GameObject Center => center;
+    public AnimatorComponent Animator => animator;
 
     private int _playAnimationCount = 0;
     public void Awake()
@@ -55,7 +56,7 @@ public class PlayerBase : MonoBehaviour
 [Serializable]
 public class AnimationBase 
 {
-    [SerializeField, SpineAnimation] string animationName;
+    [SerializeField, SpineAnimation(fallbackToTextField = true)] string animationName;
     [SerializeField] Sound sound;
     [SerializeField] bool isLoop;
 
